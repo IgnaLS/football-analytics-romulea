@@ -1,0 +1,265 @@
+,Unnamed: 0,Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Avversario
+0,0,Romulea,H1,Interception,0.0,30.0,81.0,26.0,,,Ultima
+1,1,Romulea,H1,Pass,0.0,30.0,85.0,27.0,88.0,22.0,Ultima
+2,2,Romulea,H2,Shot,0.0,33.0,88.0,27.0,,,Ultima
+3,3,Romulea,Carlucci,Carry,0.0,43.0,77.0,68.0,90.0,75.0,Ultima
+4,4,Romulea,Carlucci,Dribble,0.0,43.0,91.0,73.0,,,Ultima
+5,5,Romulea,Carlucci,Shot,0.0,45.0,89.0,65.0,,,Ultima
+6,6,Romulea,Carlucci,Carry,0.0,52.0,68.0,88.0,78.0,67.0,Ultima
+7,7,Romulea,Carlucci,Shot,0.0,52.0,78.0,65.0,,,Ultima
+8,8,Romulea,H5,Pass,0.0,58.0,31.0,37.0,7.0,28.0,Ultima
+9,9,Romulea,H6,Pass,0.0,58.0,6.0,28.0,9.0,46.0,Ultima
+10,10,Ospiti,A1,Interception,1.0,0.0,9.0,47.0,,,Ultima
+11,11,Romulea,Cirieghi,Carry,1.0,18.0,15.0,85.0,8.0,76.0,Ultima
+12,12,Romulea,Cirieghi,Pass,1.0,19.0,8.0,75.0,10.0,63.0,Ultima
+13,13,Romulea,Pomponi,Shot,1.0,20.0,9.0,63.0,,,Ultima
+14,14,Romulea,Carlucci,Carry,1.0,29.0,26.0,22.0,19.0,41.0,Ultima
+15,15,Romulea,Carlucci,Pass,1.0,31.0,20.0,41.0,5.0,40.0,Ultima
+16,16,Romulea,Cirieghi,Shot,1.0,44.0,16.0,66.0,,,Ultima
+17,17,Romulea,Venazzetti,Carry,1.0,56.0,33.0,2.0,17.0,26.0,Ultima
+18,18,Romulea,Venazzetti,Pass,1.0,57.0,17.0,26.0,,,Ultima
+19,19,Romulea,Venazzetti,Shot,1.0,59.0,6.0,39.0,,,Ultima
+20,20,Romulea,H11,Shot,2.0,4.0,17.0,35.0,6.0,36.0,Ultima
+21,0,Pomezia,Fratman,Pass,0.0,24.0,46.0,94.0,18.0,31.0,Pomezia
+22,1,Pomezia,Damiani,Shot,0.0,25.0,17.0,32.0,,,Pomezia
+23,2,Romulea,H1,Pass,0.0,32.0,75.0,5.0,98.0,68.0,Pomezia
+24,3,Romulea,Ferrari,Shot,0.0,36.0,98.0,68.0,,,Pomezia
+25,4,Romulea,Pensa,Pass,0.0,41.0,10.0,49.0,31.0,51.0,Pomezia
+26,5,Romulea,Esposito,Carry,0.0,44.0,33.0,52.0,45.0,50.0,Pomezia
+27,6,Romulea,Esposito,Pass,0.0,44.0,45.0,52.0,71.0,26.0,Pomezia
+28,7,Romulea,Ciriachi,Carry,0.0,48.0,69.0,19.0,82.0,29.0,Pomezia
+29,8,Romulea,Ciriachi,Pass,0.0,49.0,83.0,30.0,82.0,45.0,Pomezia
+30,9,Romulea,Esposito,Shot,0.0,52.0,90.0,39.0,99.0,48.0,Pomezia
+31,10,Pomezia,Giordano,Pass,1.0,7.0,23.0,91.0,6.0,35.0,Pomezia
+32,11,Pomezia,Rossi,Shot,1.0,11.0,5.0,37.0,1.0,46.0,Pomezia
+33,12,Pomezia,Giordano,Shot Assist,1.0,11.0,22.0,93.0,5.0,36.0,Pomezia
+34,13,Romulea,Ciriachi,Shot Assist,1.0,11.0,83.0,28.0,82.0,46.0,Pomezia
+35,14,Romulea,Facenna,Pass,1.0,29.0,84.0,27.0,93.0,52.0,Pomezia
+36,15,Pomezia,Fratman,Pass,1.0,52.0,35.0,62.0,27.0,46.0,Pomezia
+37,16,Pomezia,Ortensi,Carry,1.0,52.0,29.0,44.0,18.0,53.0,Pomezia
+38,17,Pomezia,Ortensi,Shot,1.0,55.0,19.0,63.0,,,Pomezia
+39,18,Romulea,Pomponi,Carry,2.0,2.0,63.0,33.0,76.0,37.0,Pomezia
+40,19,Romulea,Pomponi,Pass,2.0,5.0,73.0,39.0,81.0,49.0,Pomezia
+41,20,Romulea,Ferrari,Shot,2.0,7.0,79.0,66.0,,,Pomezia
+42,21,Pomezia,Rossi,Interception,2.0,13.0,42.0,56.0,,,Pomezia
+43,22,Pomezia,Rossi,Pass,2.0,13.0,41.0,54.0,18.0,63.0,Pomezia
+44,23,Pomezia,Rossi,Shot,2.0,19.0,17.0,64.0,,,Pomezia
+45,24,Romulea,Pomponi,Dribble,2.0,27.0,33.0,28.0,,,Pomezia
+46,25,Romulea,Pomponi,Carry,2.0,27.0,33.0,26.0,24.0,28.0,Pomezia
+47,26,Romulea,Pomponi,Shot,2.0,27.0,25.0,31.0,,,Pomezia
+48,27,Pomezia,Ortensi,Carry,2.0,40.0,70.0,40.0,81.0,43.0,Pomezia
+49,28,Pomezia,Ortensi,Shot,2.0,42.0,81.0,44.0,,,Pomezia
+50,29,Pomezia,Esposito,Pass,2.0,46.0,81.0,59.0,85.0,45.0,Pomezia
+51,30,Pomezia,Damiani,Shot,2.0,47.0,86.0,42.0,,,Pomezia
+52,31,Pomezia,Fè,Shot Assist,2.0,59.0,88.0,22.0,97.0,57.0,Pomezia
+53,32,Pomezia,Teti,Shot,2.0,59.0,97.0,59.0,,,Pomezia
+54,33,Romulea,Pomponi,Carry,3.0,16.0,67.0,58.0,26.0,70.0,Pomezia
+55,34,Romulea,Pomponi,Pass,3.0,17.0,26.0,65.0,23.0,35.0,Pomezia
+56,35,Romulea,Esposito,Shot,3.0,20.0,19.0,37.0,,,Pomezia
+57,0,Romulea,Pomponi,Pass,0.0,16.0,78.0,50.0,87.0,81.0,Boreale
+58,1,Romulea,Pomponi,Shot Assist,0.0,20.0,90.0,82.0,94.0,51.0,Boreale
+59,2,Romulea,Barchesi,Shot,0.0,20.0,94.0,51.0,,,Boreale
+60,3,Romulea,Carlucci,Carry,0.0,31.0,70.0,90.0,78.0,66.0,Boreale
+61,4,Romulea,Carlucci,Shot,0.0,31.0,80.0,62.0,,,Boreale
+62,5,Romulea,Ferrari,Shot,0.0,43.0,77.0,63.0,,,Boreale
+63,6,Romulea,H14,Shot Assist,0.0,58.0,62.0,64.0,28.0,36.0,Boreale
+64,7,Romulea,Barchesi,Carry,1.0,0.0,26.0,36.0,16.0,48.0,Boreale
+65,8,Romulea,Barchesi,Shot,1.0,1.0,16.0,52.0,,,Boreale
+66,9,Romulea,Esposito,Pass,1.0,22.0,17.0,83.0,23.0,63.0,Boreale
+67,10,Romulea,Ciriachi,Shot,1.0,24.0,19.0,57.0,,,Boreale
+68,11,Boreale,A9,Shot Assist,1.0,42.0,82.0,95.0,97.0,40.0,Boreale
+69,12,Boreale,de Vincenzi,Shot Assist,1.0,43.0,97.0,40.0,99.0,50.0,Boreale
+70,13,Boreale,A10,Pass,1.0,57.0,40.0,71.0,91.0,81.0,Boreale
+71,14,Boreale,A9,Shot Assist,1.0,59.0,94.0,83.0,88.0,64.0,Boreale
+72,15,Boreale,de Vincenzi,Shot,2.0,1.0,89.0,64.0,,,Boreale
+73,16,Boreale,A11,Interception,2.0,8.0,67.0,56.0,,,Boreale
+74,17,Boreale,de Vincenzi,Shot,2.0,11.0,82.0,48.0,,,Boreale
+75,18,Boreale,de Vincenzi,Shot Assist,2.0,19.0,91.0,48.0,87.0,43.0,Boreale
+76,19,Boreale,Cupperi,Shot,2.0,19.0,87.0,40.0,,,Boreale
+77,20,Romulea,Esposito,Shot,2.0,28.0,17.0,66.0,,,Boreale
+78,21,Romulea,Ciriachi,Shot Assist,2.0,40.0,28.0,92.0,11.0,42.0,Boreale
+79,22,Romulea,Esposito,Shot,2.0,40.0,9.0,44.0,,,Boreale
+80,23,Romulea,Ferrari,Pass,2.0,55.0,54.0,55.0,6.0,13.0,Boreale
+81,24,Romulea,Du Bessè,Shot Assist,2.0,56.0,4.0,11.0,6.0,51.0,Boreale
+82,0,Romulea,D'Andrea,Pass,0.0,11.0,46.0,61.0,40.0,57.0,W3 Maccarese
+83,1,Romulea,D'Andrea,Shot Assist,0.0,16.0,41.0,63.0,10.0,64.0,W3 Maccarese
+84,2,Romulea,Barchesi,Goal,0.0,17.0,10.0,64.0,,,W3 Maccarese
+85,3,W3 Maccares e,Di Saverio,Carry,0.0,39.0,90.0,90.0,82.0,81.0,W3 Maccarese
+86,4,W3 Maccares e,Di Saverio,Pass,0.0,41.0,82.0,77.0,80.0,53.0,W3 Maccarese
+87,5,W3 Maccares e,A2,Pass,0.0,43.0,80.0,52.0,90.0,64.0,W3 Maccarese
+88,6,W3 Maccares e,A3,Pass,1.0,0.0,34.0,63.0,70.0,77.0,W3 Maccarese
+89,7,W3 Maccares e,Matteoli,Carry,1.0,2.0,70.0,77.0,90.0,83.0,W3 Maccarese
+90,8,W3 Maccares e,Matteoli,Cross,1.0,2.0,92.0,85.0,94.0,60.0,W3 Maccarese
+91,9,Romulea,Costa,Own Goal,1.0,7.0,95.0,61.0,,,W3 Maccarese
+92,10,Romulea,Ricceri,Shot,1.0,14.0,17.0,68.0,,,W3 Maccarese
+93,11,Romulea,Ciriachi,Pass,1.0,21.0,24.0,97.0,29.0,84.0,W3 Maccarese
+94,12,Romulea,D'Andrea,Carry,1.0,25.0,30.0,85.0,24.0,76.0,W3 Maccarese
+95,13,Romulea,D'Andrea,Shot,1.0,25.0,25.0,77.0,,,W3 Maccarese
+96,14,Romulea,Ciriachi,Carry,1.0,33.0,18.0,61.0,16.0,71.0,W3 Maccarese
+97,15,Romulea,Ciriachi,Dribble,1.0,36.0,17.0,74.0,8.0,70.0,W3 Maccarese
+98,16,Romulea,Ciriachi,Cross,1.0,39.0,6.0,70.0,7.0,55.0,W3 Maccarese
+99,17,Romulea,D'Andrea,Pass,1.0,45.0,38.0,67.0,65.0,33.0,W3 Maccarese
+100,18,Romulea,Ciriachi,Carry,1.0,48.0,65.0,33.0,86.0,38.0,W3 Maccarese
+101,19,Romulea,Ciriachi,Shot,1.0,48.0,86.0,39.0,,,W3 Maccarese
+102,20,Romulea,Esposito,Pass,1.0,57.0,51.0,59.0,58.0,39.0,W3 Maccarese
+103,21,Romulea,D'Andrea,Pass,2.0,0.0,58.0,32.0,67.0,64.0,W3 Maccarese
+104,22,Romulea,Barchiesi,Dribble,2.0,3.0,73.0,61.0,85.0,62.0,W3 Maccarese
+105,23,Romulea,Barchiesi,Shot,2.0,4.0,87.0,62.0,,,W3 Maccarese
+106,24,W3 Maccares e,A2,Shot,2.0,21.0,13.0,39.0,,,W3 Maccarese
+107,25,Romulea,Ciriachi,Shot,2.0,26.0,87.0,13.0,,,W3 Maccarese
+108,26,Romulea,Lisanti,Pass,2.0,41.0,46.0,53.0,55.0,23.0,W3 Maccarese
+109,27,Romulea,Campagnano,Carry,2.0,45.0,55.0,23.0,69.0,22.0,W3 Maccarese
+110,28,Romulea,Campagnano,Shot Assist,2.0,47.0,70.0,30.0,72.0,44.0,W3 Maccarese
+111,29,Romulea,Ciriachi,Shot,2.0,49.0,74.0,44.0,,,W3 Maccarese
+112,30,Romulea,Carlucci,Shot,3.0,12.0,75.0,55.0,,,W3 Maccarese
+113,0,Roma City,A2,Dribble,0.0,49.0,6.0,26.0,1.0,36.0,Roma City
+114,1,Roma City,A2,Cross,0.0,49.0,1.0,37.0,3.0,41.0,Roma City
+115,2,Roma City,A2,Carry,1.0,2.0,54.0,46.0,34.0,46.0,Roma City
+116,3,Roma City,A2,Pass,1.0,6.0,29.0,51.0,17.0,25.0,Roma City
+117,4,Roma City,A3,Carry,1.0,6.0,17.0,24.0,14.0,37.0,Roma City
+118,5,Roma City,A3,Goal,1.0,6.0,14.0,38.0,,,Roma City
+119,6,Roma City,A2,Carry,1.0,20.0,19.0,13.0,5.0,17.0,Roma City
+120,7,Roma City,A2,Cross,1.0,20.0,4.0,16.0,9.0,63.0,Roma City
+121,8,Roma City,A3,Goal,1.0,20.0,9.0,62.0,,,Roma City
+122,9,Roma City,A2,Pass,1.0,39.0,45.0,59.0,33.0,65.0,Roma City
+123,10,Roma City,A3,Carry,1.0,44.0,34.0,74.0,26.0,70.0,Roma City
+124,11,Roma City,A3,Pass,1.0,44.0,27.0,69.0,24.0,63.0,Roma City
+125,12,Roma City,A5,Pass,1.0,45.0,22.0,64.0,15.0,71.0,Roma City
+126,13,Roma City,A3,Carry,1.0,47.0,14.0,70.0,6.0,67.0,Roma City
+127,14,Roma City,A3,Shot,1.0,48.0,6.0,66.0,,,Roma City
+128,15,Romulea,Gaspa,Pass,1.0,51.0,23.0,65.0,28.0,57.0,Roma City
+129,16,Romulea,Mackay,Lost ball,1.0,56.0,34.0,46.0,,,Roma City
+130,17,Roma City,A2,Pass,1.0,59.0,38.0,49.0,57.0,67.0,Roma City
+131,18,Roma City,A3,Carry,2.0,5.0,57.0,67.0,92.0,67.0,Roma City
+132,19,Roma City,A3,Shot,2.0,6.0,92.0,67.0,,,Roma City
+133,20,Romulea,Gaspa,Shot Assist,2.0,7.0,11.0,75.0,17.0,61.0,Roma City
+134,21,Romulea,Pomponi,Shot,2.0,7.0,14.0,59.0,,,Roma City
+135,22,Romulea,Esposito,Goal,2.0,23.0,19.0,69.0,,,Roma City
+136,23,Roma City,A2,Pass,2.0,39.0,27.0,63.0,73.0,11.0,Roma City
+137,24,Roma City,A3,Dribble,2.0,43.0,75.0,10.0,95.0,27.0,Roma City
+138,25,Roma City,A3,Shot Assist,2.0,43.0,96.0,29.0,92.0,41.0,Roma City
+139,26,Roma City,A5,Shot,2.0,43.0,92.0,44.0,,,Roma City
+140,27,Romulea,Pomponi,Carry,2.0,54.0,31.0,51.0,23.0,59.0,Roma City
+141,28,Romulea,Pomponi,Shot Assist,2.0,54.0,23.0,61.0,17.0,75.0,Roma City
+142,29,Romulea,Ciriachi,Carry,2.0,56.0,17.0,74.0,13.0,70.0,Roma City
+143,30,Romulea,Ciriachi,Goal,2.0,56.0,13.0,69.0,,,Roma City
+144,31,Romulea,Gaspa,Pass,3.0,11.0,28.0,96.0,24.0,78.0,Roma City
+145,32,Romulea,Ciriachi,Carry,3.0,11.0,20.0,75.0,5.0,80.0,Roma City
+146,33,Romulea,Ciriachi,Shot Assist,3.0,15.0,5.0,83.0,6.0,56.0,Roma City
+147,34,Romulea,Barchiesi,Goal,3.0,15.0,6.0,58.0,,,Roma City
+148,35,Romulea,Barchiesi,Pass,3.0,25.0,65.0,96.0,61.0,78.0,Roma City
+149,36,Romulea,Campagnano,Carry,3.0,29.0,58.0,76.0,49.0,72.0,Roma City
+150,37,Romulea,Campagnano,Pass,3.0,32.0,49.0,74.0,23.0,81.0,Roma City
+151,38,Romulea,Barchiesi,Dribble,3.0,32.0,20.0,80.0,,,Roma City
+152,39,Romulea,Barchiesi,Carry,3.0,35.0,21.0,83.0,6.0,71.0,Roma City
+153,40,Romulea,Barchiesi,Shot Assist,3.0,36.0,6.0,70.0,10.0,57.0,Roma City
+154,41,Romulea,Occhialini,Shot,3.0,39.0,6.0,54.0,,,Roma City
+155,42,Roma City,A2,Pass,3.0,48.0,52.0,42.0,87.0,48.0,Roma City
+156,43,Roma City,A3,Shot Assist,3.0,51.0,83.0,48.0,75.0,42.0,Roma City
+157,44,Roma City,A5,Shot,3.0,51.0,76.0,44.0,,,Roma City
+158,0,Romulea,Mancini,Pass,1.0,5.0,65.0,64.0,88.0,70.0,Civitavecchia
+159,1,Romulea,Pomponi,Pass,1.0,7.0,89.0,71.0,87.0,65.0,Civitavecchia
+160,2,Romulea,Esposito,Carry,1.0,9.0,87.0,66.0,90.0,72.0,Civitavecchia
+161,3,Romulea,Esposito,Cross,1.0,9.0,89.0,71.0,93.0,38.0,Civitavecchia
+162,4,Romulea,Ciriachi,Pass,1.0,11.0,93.0,39.0,94.0,47.0,Civitavecchia
+163,5,Civitavecchia,A2,Lost ball,1.0,27.0,77.0,66.0,79.0,59.0,Civitavecchia
+164,6,Romulea,Pomponi,Dribble,1.0,28.0,81.0,60.0,,,Civitavecchia
+165,7,Romulea,Pomponi,Carry,1.0,30.0,81.0,57.0,87.0,42.0,Civitavecchia
+166,8,Romulea,Pomponi,Goal,1.0,30.0,87.0,41.0,,,Civitavecchia
+167,9,Civitavecchia,A2,Pass,1.0,44.0,47.0,47.0,25.0,9.0,Civitavecchia
+168,10,Civitavecchia,A3,Pass,1.0,49.0,22.0,9.0,8.0,23.0,Civitavecchia
+169,11,Civitavecchia,A3,Shot Assist,1.0,51.0,11.0,20.0,7.0,32.0,Civitavecchia
+170,12,Civitavecchia,A5,Shot,1.0,53.0,6.0,33.0,,,Civitavecchia
+171,13,Civitavecchia,A2,Pass,2.0,9.0,1.0,29.0,10.0,7.0,Civitavecchia
+172,14,Civitavecchia,A3,Carry,2.0,14.0,12.0,8.0,18.0,31.0,Civitavecchia
+173,15,Civitavecchia,A3,Shot,2.0,17.0,19.0,33.0,,,Civitavecchia
+174,16,Romulea,Costa,Shot,2.0,31.0,5.0,52.0,,,Civitavecchia
+175,17,Civitavecchia,A2,Carry,2.0,39.0,91.0,94.0,82.0,81.0,Civitavecchia
+176,18,Civitavecchia,A2,Pass,2.0,39.0,83.0,82.0,,,Civitavecchia
+177,19,Civitavecchia,A3,Pass,2.0,41.0,88.0,92.0,81.0,87.0,Civitavecchia
+178,20,Civitavecchia,A2,Carry,2.0,43.0,79.0,83.0,83.0,85.0,Civitavecchia
+179,21,Civitavecchia,A2,Pass,2.0,43.0,83.0,83.0,90.0,92.0,Civitavecchia
+180,22,Civitavecchia,A2,Cross,2.0,48.0,93.0,93.0,93.0,50.0,Civitavecchia
+181,23,Civitavecchia,A5,Shot,2.0,47.0,93.0,44.0,,,Civitavecchia
+182,24,Romulea,Ciriachi,Dribble,2.0,54.0,37.0,93.0,,,Civitavecchia
+183,25,Romulea,Ciriachi,Carry,2.0,55.0,37.0,94.0,30.0,61.0,Civitavecchia
+184,26,Romulea,Ciriachi,Pass,2.0,56.0,30.0,63.0,24.0,51.0,Civitavecchia
+185,27,Romulea,Pomponi,Shot Assist,2.0,59.0,21.0,49.0,9.0,60.0,Civitavecchia
+186,28,Romulea,Ciriachi,Shot,2.0,59.0,8.0,60.0,,,Civitavecchia
+187,29,Civitavecchia,A2,Pass,3.0,9.0,64.0,52.0,76.0,92.0,Civitavecchia
+188,30,Civitavecchia,A3,Pass,3.0,11.0,76.0,91.0,79.0,94.0,Civitavecchia
+189,31,Civitavecchia,A5,Pass,3.0,13.0,78.0,92.0,76.0,71.0,Civitavecchia
+190,32,Civitavecchia,A6,Shot Assist,3.0,16.0,76.0,71.0,93.0,70.0,Civitavecchia
+191,33,Civitavecchia,A2,Shot,3.0,16.0,94.0,67.0,,,Civitavecchia
+192,34,Civitavecchia,A7,Goal,3.0,18.0,97.0,44.0,,,Civitavecchia
+193,35,Romulea,Ricceri,Carry,3.0,55.0,60.0,71.0,4.0,69.0,Civitavecchia
+194,36,Romulea,Ricceri,Cross,3.0,57.0,3.0,68.0,1.0,14.0,Civitavecchia
+195,37,Romulea,Esposito,Pass,4.0,5.0,28.0,37.0,9.0,40.0,Civitavecchia
+196,38,Romulea,Pomponi,Shot Assist,4.0,6.0,7.0,41.0,8.0,35.0,Civitavecchia
+197,39,Civitavecchia,A2,Pass,4.0,18.0,72.0,78.0,82.0,88.0,Civitavecchia
+198,40,Civitavecchia,A3,Carry,4.0,23.0,82.0,88.0,99.0,81.0,Civitavecchia
+199,41,Civitavecchia,A3,Cross,4.0,25.0,99.0,82.0,86.0,42.0,Civitavecchia
+200,42,Civitavecchia,A5,Dribble,4.0,27.0,83.0,39.0,,,Civitavecchia
+201,43,Civitavecchia,A5,Shot,4.0,28.0,83.0,42.0,,,Civitavecchia
+202,0,Viterbese,A2,Shot,0.0,38.0,74.0,65.0,,,Viterbese
+203,1,Viterbese,A2,Carry,0.0,43.0,79.0,85.0,78.0,71.0,Viterbese
+204,2,Viterbese,A2,Shot,0.0,43.0,78.0,67.0,,,Viterbese
+205,3,Viterbese,A2,Corner,0.0,52.0,99.0,98.0,92.0,55.0,Viterbese
+206,4,Viterbese,A2,Shot,0.0,52.0,92.0,53.0,,,Viterbese
+207,5,Romulea,Ricceri,Carry,1.0,5.0,5.0,90.0,11.0,77.0,Viterbese
+208,6,Romulea,Ricceri,Cross,1.0,5.0,11.0,77.0,7.0,60.0,Viterbese
+209,7,Romulea,Cipolletti,Shot,1.0,5.0,6.0,59.0,,,Viterbese
+210,8,Viterbese,A2,Recovered Ball,1.0,11.0,66.0,55.0,,,Viterbese
+211,9,Viterbese,A2,Pass,1.0,16.0,71.0,56.0,94.0,68.0,Viterbese
+212,10,Viterbese,A3,Carry,1.0,18.0,94.0,68.0,92.0,55.0,Viterbese
+213,11,Viterbese,A3,Shot,1.0,18.0,92.0,58.0,,,Viterbese
+214,12,Viterbese,A5,Shot,1.0,19.0,86.0,48.0,,,Viterbese
+215,13,Viterbese,A5,Shot,1.0,22.0,91.0,57.0,,,Viterbese
+216,14,Viterbese,A2,Pass,1.0,30.0,46.0,9.0,85.0,2.0,Viterbese
+217,15,Viterbese,A3,Shot,1.0,35.0,85.0,2.0,92.0,57.0,Viterbese
+218,16,Viterbese,A5,Shot,1.0,35.0,93.0,39.0,,,Viterbese
+219,17,Viterbese,A6,Shot,1.0,35.0,90.0,60.0,,,Viterbese
+220,18,Viterbese,A6,Shot,1.0,37.0,91.0,40.0,,,Viterbese
+221,19,Viterbese,A2,Carry,1.0,42.0,91.0,87.0,87.0,85.0,Viterbese
+222,20,Viterbese,A3,Cross,1.0,44.0,86.0,83.0,92.0,50.0,Viterbese
+223,21,Viterbese,A3,Shot,1.0,44.0,93.0,50.0,,,Viterbese
+224,22,Romulea,Mackay,Pass,1.0,54.0,40.0,46.0,34.0,55.0,Viterbese
+225,23,Romulea,Ciriachi,Carry,1.0,54.0,34.0,55.0,30.0,54.0,Viterbese
+226,24,Romulea,Ciriachi,Pass,1.0,54.0,30.0,55.0,28.0,45.0,Viterbese
+227,25,Romulea,Esposito,Shot,1.0,56.0,26.0,42.0,,,Viterbese
+228,26,Viterbese,A2,Pass,2.0,3.0,24.0,28.0,19.0,22.0,Viterbese
+229,27,Viterbese,A3,Cross,2.0,6.0,12.0,14.0,12.0,39.0,Viterbese
+230,28,Viterbese,A5,Shot Assist,2.0,8.0,11.0,37.0,15.0,42.0,Viterbese
+231,29,Viterbese,A6,Shot,2.0,8.0,15.0,42.0,,,Viterbese
+232,30,Viterbese,A2,Dribble,2.0,14.0,10.0,5.0,,,Viterbese
+233,31,Viterbese,A2,Carry,2.0,17.0,10.0,5.0,6.0,17.0,Viterbese
+234,32,Viterbese,A2,Dribble,2.0,18.0,5.0,18.0,,,Viterbese
+235,33,Viterbese,A2,Carry,2.0,18.0,5.0,18.0,9.0,31.0,Viterbese
+236,34,Viterbese,A2,Shot,2.0,18.0,9.0,33.0,,,Viterbese
+237,35,Viterbese,A2,Shot Assist,2.0,21.0,12.0,38.0,14.0,55.0,Viterbese
+238,36,Viterbese,A3,Shot,2.0,21.0,15.0,56.0,,,Viterbese
+239,37,Viterbese,A2,Pass,2.0,32.0,30.0,57.0,23.0,49.0,Viterbese
+240,38,Viterbese,A3,Shot Assist,2.0,35.0,18.0,47.0,13.0,33.0,Viterbese
+241,39,Viterbese,A5,Shot,2.0,35.0,13.0,34.0,,,Viterbese
+242,40,Viterbese,A5,Shot,2.0,37.0,13.0,37.0,,,Viterbese
+243,41,Romulea,Ricceri,Pass,2.0,46.0,47.0,11.0,47.0,22.0,Viterbese
+244,42,Romulea,Esposito,Carry,2.0,49.0,47.0,22.0,61.0,22.0,Viterbese
+245,43,Romulea,Esposito,Pass,2.0,49.0,62.0,27.0,69.0,15.0,Viterbese
+246,44,Romulea,Ciriachi,Carry,2.0,54.0,69.0,17.0,76.0,30.0,Viterbese
+247,45,Romulea,Ciriachi,Shot Assist,2.0,55.0,76.0,31.0,88.0,67.0,Viterbese
+248,46,Romulea,Gaspa,Shot,2.0,57.0,92.0,67.0,,,Viterbese
+249,47,Viterbese,A2,Pass,3.0,2.0,47.0,6.0,37.0,28.0,Viterbese
+250,48,Viterbese,A3,Pass,3.0,6.0,37.0,28.0,8.0,25.0,Viterbese
+251,49,Viterbese,A3,Shot Assist,3.0,9.0,8.0,25.0,13.0,47.0,Viterbese
+252,50,Viterbese,A5,Goal,3.0,9.0,12.0,46.0,,,Viterbese
+253,51,Romulea,Faccenna,Carry,3.0,23.0,30.0,18.0,44.0,18.0,Viterbese
+254,52,Romulea,Faccenna,Pass,3.0,27.0,43.0,19.0,93.0,6.0,Viterbese
+255,53,Romulea,Ciriachi,Carry,3.0,31.0,94.0,5.0,91.0,18.0,Viterbese
+256,54,Romulea,Ciriachi,Cross,3.0,34.0,91.0,18.0,93.0,37.0,Viterbese
+257,55,Viterbese,A2,Pass,3.0,39.0,48.0,42.0,17.0,24.0,Viterbese
+258,56,Viterbese,A3,Carry,3.0,42.0,17.0,25.0,12.0,27.0,Viterbese
+259,57,Viterbese,A3,Shot Assist,3.0,42.0,12.0,28.0,15.0,44.0,Viterbese
+260,58,Viterbese,A5,Shot,3.0,42.0,15.0,44.0,,,Viterbese
+261,59,Romulea,Faccenna,Carry,3.0,51.0,41.0,22.0,47.0,22.0,Viterbese
+262,60,Romulea,Faccenna,Pass,3.0,53.0,47.0,22.0,61.0,31.0,Viterbese
+263,61,Romulea,Bessè,Pass,3.0,58.0,61.0,31.0,93.0,74.0,Viterbese
