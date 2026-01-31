@@ -23,7 +23,9 @@ Comprehensive tactical and statistical analysis of Romulea's home matches in Ecc
 - Strong defensive organization (12.5% opponent conversion rate)
 
 ## Visualizations
-[Includi 2-3 screenshot delle heatmaps/shot maps più belle]
+![Shot Map Romulea](images/Tiri Romulea.png)
+![Pass Map Romulea](images/Passaggi Romulea.png)
+![Shots Heatmap Romulea](images/Heatmap tiri Romulea.png)
 
 ## Files
 - `Report_Romulea.pdf` - Full analysis report (Italian)
